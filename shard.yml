@@ -1,0 +1,13 @@
+name: dragonsfire
+version: 0.1.0
+
+authors:
+  - Your Name <you@example.com>
+
+crystal: 0.24.2
+
+license: MIT
+
+dependencies:
+  awscr-s3:
+    github: taylorfinnell/awscr-s3
